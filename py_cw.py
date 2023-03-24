@@ -1,37 +1,3 @@
-# HAMZA MOORAJ
-# H00390746              <--- so we know who you are
-# EDINBURGH              <--- Edinburgh, Dubai, or Malaysia 
-# F28PL Coursework 1, Python         <--- leave this line unchanged 
-
-# Deadline is Wednesday 26 October 2022 at 15:30, local time for your campus (Edinburgh / Dubai / Malaysia).
-
-# It is not your marker's role to debug basic syntax errors.
-# Therefore, if your script won't compile then it might not be marked.
-# In other words: if `python3 py_cw.py` won't execute, then your marker is not obliged to mark your answers. 
-
-# To do this coursework, FORK, THEN CLONE the gitlab project.
-
-# If you do it the other way around, then you'll have cloned *my* project (which you can't `git push` to), rather than cloned *your fork* of the project (which you can `git push` to).  
-# Any questions, don't guess: ask.
-
-# You may assume variables, procedures, and functions defined in earlier questions
-# in your answers to later questions, though you should add comments in code explaining
-# this if any clarification might help read your code.
-
-# The test file test_cw.py is not exhaustive. 
-# Just because your answer passes it does not mean it's correct.
-# You would do well to consider where errors might be lurking and to add these to test_cw.py.   
-# You are not marked directly on the quality of additional tests, however your marker may be
-# able to assign marks for understanding as demonstrated in any tests you may write, 
-# even if the code itself isn't quite right. 
-
-# This coursework is live exam material so KEEP YOUR ANSWERS PRIVATE.  
-
-# Before submitting this coursework please complete the Student authorship declaration here:
-#   https://canvas.hw.ac.uk/courses/20804/assignments/102574 
- 
-
-# Do not delete the text from here ... 
 ################################################################################
 # Question 1   
 

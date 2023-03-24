@@ -1,17 +1,3 @@
-"""
-Tests are a key part of software development. 
-
-The tests provided below are not property-based tests, and their coverage is incomplete.
-Thus, passing them does not mean that your code is fully correct.
-This test file is a starting point for you to write your own tests.
-Pay attention to edge cases (e.g. zero, empty list, empty string, etc).
-Your mark will also depend on how you have coded your answers.
-
-Any additional test code you produce will not be marked directly, but it may help give you credit for demonstrating understanding, so it should be included in your fork as part of this test_cw.py file or in a separate file.
-
-To run these tests, type `pytest test_cw.py` within this directory.
-"""
-
 import importlib
 import py
 
